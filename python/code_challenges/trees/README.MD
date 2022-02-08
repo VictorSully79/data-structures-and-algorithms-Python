@@ -1,5 +1,8 @@
-## Code Challenge #18
+# Code Challenge #18
+
 20220208
+
+Helped by Isaiah Burkes
 
 ## Featured Task
 
