@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "dsa_401"
+name = "data-structures-and-algorithms-python"
 version = "0.1.0"
 description = ""
-authors = ["Victor Sullivan <victorsully79@gmail.com"]
+authors = ["VictorSully79 <victorsullivan@hotmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9.5"
+python = "^3.9"
 pytest = "^7.0.0"
 
 [tool.poetry.dev-dependencies]
