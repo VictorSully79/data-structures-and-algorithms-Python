@@ -22,6 +22,10 @@
 20220131
 [Tree Max](code_challenges/trees/README.MD)
 
+## Challenge 17
+20220203
+[Breadth First Traversal](python/code_challenges/trees/README.MD)
+
 ## Challenge 18
 20220207
 [Tree Fizz-Buzz](python/code_challenges/trees/README.MD)

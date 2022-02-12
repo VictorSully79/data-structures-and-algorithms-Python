@@ -12,6 +12,16 @@ Help provided by Arthur Lozano Jr.
     - Arguments: none
     - Returns: number
 
+# Code Challenge #17
+
+20220203
+
+## Feature Tasks
+
+- Write a function called breadth first
+- Arguments: tree
+- Return: list of all values in the tree, in the order they were encountered
+
 # Code Challenge #18
 
 20220208
