@@ -2,6 +2,10 @@
 
 # Code Challenge's
 
+## Challenge 2
+20211209
+[Array Insert Shift](python/code_challenges/arrays/README.md)
+
 ## Challenge 6
 20211220
 [Linked List Insertion](python/code_challenges/linked_list/linked_list_insertions.md)
