@@ -14,6 +14,10 @@
 20211227
 [k-th Value From End of LL](python/code_challenges/linked_list/linked_list_kth.md)
 
+## Challenge 15
+20220129
+[Binary Search Tree](python/code_challenges/trees/README.MD)
+
 ## Challenge 16
 20220131
 [Tree Max](code_challenges/trees/README.MD)
