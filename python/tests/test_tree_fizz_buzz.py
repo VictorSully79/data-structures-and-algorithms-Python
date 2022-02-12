@@ -2,6 +2,8 @@ from platform import node
 from code_challenges.trees.tree_fizz_buzz import tree_fizz_buzz, Node, check_the_tree
 import pytest
 
+
+
 def test_empty_tree_exception():
     with pytest.raises(Exception):
         head = None

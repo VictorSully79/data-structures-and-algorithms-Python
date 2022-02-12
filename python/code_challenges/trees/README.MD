@@ -1,3 +1,17 @@
+# Code Challenge #16
+
+20220131
+
+Help provided by Arthur Lozano Jr.
+
+## Feature Tasks
+
+- Write the following method for the Binary Tree class
+
+  - find maximum value
+    - Arguments: none
+    - Returns: number
+
 # Code Challenge #18
 
 20220208

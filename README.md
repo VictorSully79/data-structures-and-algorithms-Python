@@ -1,23 +1,19 @@
-# Data Structures and Algorithms
+# Code Challenges
 
-See [setup instructions](https://codefellows.github.io/setup-guide/code-301/3-code-challenges), in the Code 301 Setup Guide.
+# Code Challenge's
 
-## Repository Quick Tour and Usage
+## Challenge 6
+20211220
+[Linked List Insertion](python/code_challenges/linked_list/linked_list_insertions.md)
 
-### 301 Code Challenges
+## Challenge 7
+20211227
+[k-th Value From End of LL](python/code_challenges/linked_list/linked_list_kth.md)
 
-Under the `javascript` folder, at the top level, is a sub-folder called `code-challenges`
+## Challenge 16
+20220131
+[Tree Max](code_challenges/trees/README.MD)
 
-Each day, you'll add one new file to this folder to do your work for the day's assigned code challenge
-
-If you have not already done so, run `npm install` from within this folder to setup your system to be able to run tests using `Jest`
-
-To run your tests
-
-- Change to the `javascript` folder
-- run `npm test` to run all of the tests
-- run `npm test ##` to only run tests for challenge ## (i.e. 01)
-
-### 401 Data Structures, Code Challenges
-
-- Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
+## Challenge 18
+20220207
+[Tree Fizz-Buzz](python/code_challenges/trees/README.MD)

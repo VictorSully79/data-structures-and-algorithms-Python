@@ -24,7 +24,7 @@ def fizz_buzz_tree(head):
 
     #### Returns a clone ####
     return clone[head]
-                
+
     #### Checks if the numbers are divisible by 3, 5, or both
 def fizz_buzz(num):
     if num % 3 == 0 and num % 5 == 0:
@@ -40,7 +40,7 @@ def fizz_buzz(num):
 def check_the_tree(head):
     if not head:
         return head
-    
+
     queue, res = [head], []
     while queue:
         cur = queue.pop(0)
