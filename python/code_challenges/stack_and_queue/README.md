@@ -1,6 +1,8 @@
 
 # Code Challenge #10: Stack and a Queue Implementation
 
+assisted by Isaiah Burkes
+
 ## Features
 Using a Linked List as the underlying data storage mechanism, implement both a Stack and a Queue
 
