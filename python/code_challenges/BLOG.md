@@ -3,7 +3,7 @@
 
 ## For Starters
 
-Some things we practice data structures over and over.  How to manipulate them and successfully get the outcome we are desiring.  Often times, we understand how to get that outcome but fail to really understand what is happening. I will attempt to explain what is happening in insertion sort.
+We practice data structures over and over.  How to manipulate them and successfully get the outcome we are desiring.  Often times, we understand how to get that outcome but fail to really understand what is happening. I will attempt to explain what is happening in insertion sort.
 
 ## Pseudocode
 
@@ -26,7 +26,7 @@ First we will set a variable for the insertion
 
 `FOR i = 1 to arr.length`
 
-Then set a vadriable for i -1
+Then set a variable for i -1
 
 `int j <-- i - 1`
 
