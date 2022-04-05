@@ -1,6 +1,6 @@
 from re import L
 import pytest
-from code_challenges.graph import Graph
+from code_challenges.graphs.graph import Graph
 
 
 
