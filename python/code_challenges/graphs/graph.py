@@ -73,3 +73,45 @@ class Graph:
                     print('(' + node + ') -> (' + nei + '), weight = ' + self.edges[(node, nei)])
             else:
                 print('(' + node + ')')
+
+def depth_first(self, node=None):
+        if not node or node not in self.nodes: return []
+
+        res = []
+        stack = [node]
+        seen = set()
+
+        while stack:
+            curnode = stack.pop()
+            res.append(curnode)
+            if curnode not in seen:
+                seen.add(curnode)
+                for neighbor in reversed(self.nodes[curnode]):
+                    if neighbor not in seen:
+                        stack.append(neighbor)
+
+        return res
+
+def business_trip(self, cities):
+        if not cities: return None
+
+        cost = 0
+
+        for i in range(len(cities)-1):
+            trip = (cities[i], cities[i+1])
+
+            if trip in self.edges:
+                cost += self.edges[trip]
+            else:
+                return None
+
+        return cost
+
+
+def __str__(self):
+        for node, neighbors in self.nodes:
+            if neighbors:
+                for nei in neighbors:
+                    print('(' + node + ') -> (' + nei + '), weight = ' + self.edges[(node, nei)])
+            else:
+                print('(' + node + ')')
