@@ -1,6 +1,6 @@
 # Graphs
 
-## Code Challenge 26
+## Code Challenge 36
 
 ### Implement a breadth-first traversal on a graph
 
